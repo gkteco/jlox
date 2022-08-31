@@ -40,8 +40,10 @@ JC = javac
 #
 
 CLASSES = \
-        Lox.java \
 	TokenType.java \
+	Token.java \
+        Lox.java \
+	Scanner.java \
         
 
 
